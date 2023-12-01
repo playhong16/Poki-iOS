@@ -1,4 +1,4 @@
-# 🎞️ POKI
+# 🎞️ POKI 테스트
 <img width="1920" alt="POKI_Cover" src="https://github.com/TeamPoki/Poki-iOS/assets/117909631/37665232-dac8-4873-aacc-850f7b0ea4e3">
 
 >내가 찍은 인생네컷 사진을 저장하고, 인생네컷 찍을때 포즈잡기 어려울때 도와주는 포토위키 포키! 
