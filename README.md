@@ -44,6 +44,15 @@
 - `새로고침` 버튼을 누르면, 랜덤으로 다른 이미지를 제공합니다.
 - 별 버튼을 눌러, 원하는 포즈를 저장할 수 있습니다.
 
+## 트러블 슈팅
+### Kingfisher 라이브러리 적용 과정
+[내용 보기](https://playhong16.notion.site/Kingfisher-f5931643088d4773887e084aee9fa022?pvs=4)
 
+### Firestore 문서 ID를 인덱스로 부여하기
+[내용 보기](https://playhong16.notion.site/Firestore-ID-7960ab806bd34fab8bded3d5024fb53e?pvs=4)
 
+### Firestore에서 swift 커스텀 타입 사용하기
+[내용 보기](https://playhong16.notion.site/Firestore-swift-ec433f8cb0bd46a787f70e0cdf39168f?pvs=4)
 
+### Firestore 관련 메서드 수정 후 테스트 계획서
+[내용 보기](https://playhong16.notion.site/Firestore-c6d03921ca4b4605a35a23bc8277d78b?pvs=4)
