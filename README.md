@@ -58,5 +58,5 @@
 [내용 보기](https://playhong16.notion.site/Firestore-swift-ec433f8cb0bd46a787f70e0cdf39168f?pvs=4)
 
 ### Firestore 관련 메서드 수정 후 테스트 계획서
-[`Firestore에서 swift 커스텀 타입 사용하기`](#Firestore에서-swift-커스텀-타입-사용하기) 항목에서 코드를 개선하고, 개선한 코드가 정상적으로 동작하는지 팀원과 함께 확인하기 위해 테스트 계획서를 작성했습니다.</br>
+[Firestore에서 swift 커스텀 타입 사용하기](#Firestore에서-swift-커스텀-타입-사용하기) 항목에서 코드를 개선하고, 개선한 코드가 정상적으로 동작하는지 팀원과 함께 확인하기 위해 테스트 계획서를 작성했습니다.</br>
 [내용 보기](https://playhong16.notion.site/Firestore-c6d03921ca4b4605a35a23bc8277d78b?pvs=4)
