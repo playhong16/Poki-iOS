@@ -46,13 +46,17 @@
 
 ## 트러블 슈팅
 ### Kingfisher 라이브러리 적용 과정
+이미지를 불러오는 과정을 최소화하기 위해서 `Kingfisher` 라이브러리를 적용한 과정을 기록했습니다.</br>
 [내용 보기](https://playhong16.notion.site/Kingfisher-f5931643088d4773887e084aee9fa022?pvs=4)
 
 ### Firestore 문서 ID를 인덱스로 부여하기
+사용자가 저장한 사진을 `Firestore에서 순서대로 불러오기 위해 개선한 작업 내용을 기록했습니다.</br>
 [내용 보기](https://playhong16.notion.site/Firestore-ID-7960ab806bd34fab8bded3d5024fb53e?pvs=4)
 
 ### Firestore에서 swift 커스텀 타입 사용하기
+코드의 가독성을 높이기 위해 `Firebase`에서 제공하는 기능을 적용하여 코드를 개선하는 과정을 기록했습니다.</br>
 [내용 보기](https://playhong16.notion.site/Firestore-swift-ec433f8cb0bd46a787f70e0cdf39168f?pvs=4)
 
 ### Firestore 관련 메서드 수정 후 테스트 계획서
+[`Firestore에서 swift 커스텀 타입 사용하기`](#Firestore에서-swift-커스텀-타입-사용하기) 항목에서 코드를 개선하고, 개선한 코드가 정상적으로 동작하는지 팀원과 함께 확인하기 위해 테스트 계획서를 작성했습니다.</br>
 [내용 보기](https://playhong16.notion.site/Firestore-c6d03921ca4b4605a35a23bc8277d78b?pvs=4)
